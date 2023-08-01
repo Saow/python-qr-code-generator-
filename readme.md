@@ -15,5 +15,5 @@ This is a simple Python application that allows you to generate QR codes with a 
 2. Install the required modules using pip:
 
    ```bash
-   pip install qrcode[pil]
+   pip install qrcode
    pip install tkinter
