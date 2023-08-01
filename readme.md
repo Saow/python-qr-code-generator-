@@ -4,7 +4,7 @@ This is a simple Python application that allows you to generate QR codes with a 
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - `qrcode` library
 - `tkinter` library
 
